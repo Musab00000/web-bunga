@@ -5,5 +5,3 @@ Musab Faqihuddin Ahmad (23050974042)
 Ibtihal Althea Apta Negara (23050974043)
 Nadifa Afifah Mahira  (23050974069)
 Muhammad Firman Asyari (23050974077)
-
-![Uploading Screenshot 2025-04-29 155055.png…]()
