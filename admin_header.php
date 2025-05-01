@@ -24,7 +24,6 @@ if(isset($message)){
          <a href="admin_users.php">users</a>
          <a href="admin_contacts.php">messages</a>
          <a href="admin_bundling.php">bundling</a>
-         <a href="laporan_penjualan.php">laporan penjualan</a>
       </nav>
 
       <div class="icons">
