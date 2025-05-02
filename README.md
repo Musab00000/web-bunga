@@ -71,7 +71,7 @@ Pengguna dapat mengirimkan pesan atau pertanyaan langsung ke admin melalui siste
 Website ini dikembangkan sebagai salah satu proyek tugas mata kuliah *Pemrograman Web* di Program Studi S1 Pendidikan Teknologi Informasi.  
 Melalui pengembangan ini, kami berharap dapat memberikan solusi nyata untuk mendukung digitalisasi bisnis UMKM di Indonesia.
 
-Untuk mengenal lebih jauh tentang program studi kami, silakan kunjungi laman resmi: **Pendidikan Teknologi Informasi**, bagian dari **Fakultas Teknik** di **Universitas Negeri Surabaya**.
+Untuk mengenal lebih jauh tentang program studi kami, silakan kunjungi laman resmi: **[Pendidikan Teknologi Informasi](https://pendidikan-ti.ft.unesa.ac.id/)**, bagian dari **[Fakultas Teknik](https://ft.unesa.ac.id/)** di **[Universitas Negeri Surabaya](https://unesa.ac.id/)**.
 
 ## 🖼️ Tangkapan Layar
 
