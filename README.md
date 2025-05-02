@@ -75,4 +75,9 @@ Untuk mengenal lebih jauh tentang program studi kami, silakan kunjungi laman res
 
 ## 🖼️ Tangkapan Layar
 
+<img width="960" alt="Screenshot 2025-05-03 053050" src="https://github.com/Musab00000/web-bunga/blob/main/Screenshot%202025-04-27%20144341.png" />
+
+<img width="948" alt="Screenshot 2025-04-27 144341" src="https://github.com/Musab00000/web-bunga/blob/main/Screenshot%202025-05-03%20053050.png" />
+
+---
 
